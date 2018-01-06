@@ -5,3 +5,9 @@ Prestashop module which enables you to specify an age in which potential custome
 Download the zip file, then go to the back office of your Prestashop -> Modules menu and click on `Add a new module` and upload the the zip file.
 
 You can also clone the repo and put it on your `modules` folder.
+
+
+## License
+This module is released under the MIT license. See the complete license in the module:
+
+``LICENSE.md``
